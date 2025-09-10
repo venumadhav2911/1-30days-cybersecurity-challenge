@@ -15,6 +15,38 @@
 
 ---
 
+## 📸 Screenshots
+
+### Wireshark Overview
+Shows the full DHCP exchange (Release, Discover, Offer, Request, Ack).
+
+![DHCP Overview](screenshots/dhcp_overview.png)
+
+### DHCP Discover
+Client broadcast asking for IP (Transaction ID: 0x210ad523).
+
+![DHCP Discover](screenshots/dhcp_discover.png)
+
+### DHCP Offer
+Server offering IP 10.0.2.15 from 10.0.2.2.
+
+![DHCP Offer](screenshots/dhcp_offer.png)
+
+### DHCP Request
+Client requests the offered IP 10.0.2.15.
+
+![DHCP Request](screenshots/dhcp_request.png)
+
+### DHCP Ack
+Server confirms lease, includes router and DNS info.
+
+![DHCP Ack](screenshots/dhcp_ack.png)
+
+### Network Mapping
+Captured IP relationships.
+
+![Finding IP](screenshots/finding_ip.png)
+
 ## 🔄 DHCP Workflow
 
 ```mermaid

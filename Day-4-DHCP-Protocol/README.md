@@ -1,4 +1,4 @@
-# 🌐 Day 3 Challenge — Advanced DHCP Protocol Analysis
+# 🌐 Day 4 Challenge — Advanced DHCP Protocol Analysis
 
 ## 🎯 Objectives
 - Analyze the **DHCP DORA process** (Discover → Offer → Request → ACK).  
